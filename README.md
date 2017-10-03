@@ -14,5 +14,12 @@ Most smart devices typically only use frequencies between 3-6GHz - more devices 
 ### Small Cell
 Current way is to broadcast signals for long distances using few cell towers, which won't work for millimetre waves (too many obstacles). Small cell would use thousands of smaller stations which could transmit signals around obstacles - as you move, your device would switch to the station that was closest/strongest.
 
+### MIMO: Multiple Input, Multiple Output
+Current 4G stations hold about 12 ports for antennae to handle all traffic. MIMO stations could support 100 ports = way more capacity for traffic. However more ports = more interference (antennae send signals in every direction). Solution? Beamforming.
+
+### Beamforming
+Instead of broadcasting in every direction, beamforming allows stations to send a concentrated stream of data in one direction, to specific device - prevents as much interference and is more efficient (not going out in all directions, one direction = less energy etc) meaning more data can be handled at once. MIMO stations would keep track of timing and direction of received signals, use algorithms to detect exactly where the signal came from and plot best route back to device, maybe even bounce off walls or split data packets - again for less interference.
+
+
 
 
