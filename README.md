@@ -5,6 +5,12 @@
 
 This repository conatins work on two assessments for the Research Methods module - a *Literature Review* and a *Research Presentation*, both on an area of active research. I have chosen to research 5G, the fifth generation of communications technology.
 
+## Predecessors 
+**1G** - the first phones, being able to make a phone call.  
+**2G** - slightly smaller devices, could send text messages.  
+**3G** - first smartphones, could handle basic internet/webpages etc.  
+**4G** - advanced smartphones, very fast - personal tests on phone peak at 70mbps download speed, average at around 15mbps.  
+
 ## What is 5G?
 No real definition yet (still setting out standards, experts don't even have a proper definition/depends on who you ask) - simply put, a faster and more efficient version of 4G, with different technologies behind it. 5 main technologies - Millimetre Waves, Small Cell, Massive MIMO, Beamforming, and Full Duplex.  
 
@@ -24,3 +30,6 @@ Instead of broadcasting in every direction, beamforming allows stations to send 
 
 ### Full Duplex
 Current stations use one-way-at-a-time setup for signals, antennae can only do one job at a time - think of frequency as train track and signal as a train. One train going one way = fine, even two trains going one way = fine. Two trains going opposite ways = obviously not good. Current way is have signals take turns, or put them on different frequencies. Full duplex would use high speed switches, acting like a split in the same "track" that merges back into one track - one signal goes one side, the other uses the other side, signals don't mix but use the same frequency - very efficient, faster, a lot more gets done on the same freq. Very very non technical explaination but general idea is there.
+
+### Current Problems
+Mainly to do with infrastructure, either existing or that which needs to be built. Cost of tearing things down + will users have to put up with lack of signal/weak signal? Cost of building - small cell networks require many stations, could be expensive, might not look the best (cities becoming cluttered - more cells due to more buildings), planning permission etc.
