@@ -1,6 +1,9 @@
 \documentclass[journal]{IEEEtran}
 \usepackage[utf8]{inputenc}
 
+\usepackage[sorting=none]{biblatex}
+\addbibresource{bibliography.bib}
+
 \begin{document}
 \title{5G: The Next Step in Mobile Communications}
 \author{Rebecca Kane}
@@ -12,7 +15,7 @@
 \maketitle
 
 \begin{abstract}
-This will be the abstract - short passage, intro, basic ideas, what review will be about etc. Filler text. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+This will be the abstract - short passage, intro, basic ideas, what review will be about etc. Filler text. Five lines.
 \end{abstract}
 \begin{IEEEkeywords}
 5G, telecommunications, networks, (will amend when review finished).
@@ -20,16 +23,19 @@ This will be the abstract - short passage, intro, basic ideas, what review will 
 
 
 \section{Introduction}
-In recent years, particularly the last decade, the mobile telecommunications industry has enjoyed rapid growth and countless advancements in its technology. From the introduction of first generation wireless cellular technology (1G) in 1985, right up to the fourth generation (4G) available in most countries around the world today, we have seen exponential improvement in service. With an estimated 17.6 billion devices [IHS / find other ref] connected to the internet at this moment in time, and that number set to increase [Cisco / Ericsson 50 billion], our networks are facing a worldwide shortage in bandwidth.
+In recent years, particularly the last decade, the mobile telecommunications industry has enjoyed rapid growth and countless advancements in its technology. From the introduction of first generation wireless cellular technology (1G) in the 1980s, right up to the fourth generation (4G) available in most countries around the world today, we have seen exponential improvement in services. Since the first mobile phone call was made in 1973, the way we share information and communicate with one another has changed dramatically. With the introduction of social media in particular, we are now generating massive amounts of data and require more robust networks to handle such data. It was estimated in\cite{whatwill5gbe}, that the amount of IP data handled by wireless networks would increase from around 3 exabytes in 2010, to 190 exabytes in 2018. This level of data, coupled with an estimated 20 billion devices connected to the internet in 2017\cite{ihsmarkit} and that number set to increase constantly, means our networks are facing a worldwide shortage in bandwidth.
 
-\subsection{Predecessors}
-Will talk briefly about 1-4G, technologies etc, examples. Maybe some graphs with speeds or popularity/user base.
-1G - the first phones, being able to make a phone call.\\
-2G - slightly smaller devices, could send text messages.\\
-3G - first smartphones, could handle basic internet/webpages etc.\\
-4G - advanced smartphones, very fast - personal tests on phone peak at 70mbps download speed, average at around 15mbps.\\
-\subsection{More Detail on Current/4G Technology?}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+%\subsection{Predecessors}
+%Might leave section out.
+%https://www.edn.com/electronics-blogs/edn-moments/4411258/1st-mobile-phone-call-is-made--April-3--1973
+%1G - the first phones, being able to make a phone call.\\
+%2G - slightly smaller devices, could send text messages.\\
+%3G - first smartphones, could handle basic internet/webpages etc.\\
+%4G - advanced smartphones, very fast - personal tests on phone peak at 70mbps download speed, average at around 15mbps.\\
+%\subsection{More Detail on Current/4G Technology?}
+\subsection{What is 5G?}
+
+
 
 \section{Proposed Technologies}
 Talk about technologies etc. Might get rid of subsections or reduce them down (MMWaves \& Small Cell can be tied together, same with MIMO \& Beamforming).
@@ -42,20 +48,11 @@ Talk about technologies etc. Might get rid of subsections or reduce them down (M
 \section{When Will 5G Arrive? / Future of 5G}
 Cost, infrastructure etc. Might change to subsection of some other bigger section including this and companies/investment, maybe future of 5G.
 \subsection{Companies/Investment/Main Contributors?}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
 \subsection{Problems / Criticisms Section?}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 \section{Conclusion}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-\begin{thebibliography}{1}
-
-%Taken from IEEE Journal example, will change later
-\bibitem{IEEEhowto:kopka}
-H.~Kopka and P.~W. Daly, \emph{A Guide to \LaTeX}, 3rd~ed.\hskip 1em plus
-  0.5em minus 0.4em\relax Harlow, England: Addison-Wesley, 1999.
-
-\end{thebibliography}
+\printbibliography
 
 \end{document}
