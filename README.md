@@ -5,6 +5,14 @@
 
 This repository conatins work on two assessments for the Research Methods module - a *Literature Review* and a *Research Presentation*, both on an area of active research. I have chosen to research 5G, the fifth generation of communications technology.
 
+## Word Count
+| Section       |Subsection       | Count         |
+| ------------- |--------------   |--------------:|
+| Introduction  |                 |273            |
+|               | A Brief History |194            |
+|               |                 |               |
+|*Total*        |                 |467            |
+
 ## Predecessors 
 **1G** - the first phones, being able to make a phone call.  
 **2G** - slightly smaller devices, could send text messages.  
