@@ -10,8 +10,8 @@ This repository conatins work on two assessments for the Research Methods module
 | ------------- |--------------   |--------------:|
 | Introduction  |                 |273            |
 |               | A Brief History |194            |
-|               |                 |               |
-|*Total*        |                 |467            |
+|               | 4G / Current    |298            |
+|*Total*        |                 |765            |
 
 ## Predecessors 
 **1G** - the first phones, being able to make a phone call.  
