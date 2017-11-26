@@ -6,18 +6,18 @@
 This repository conatins work on two assessments for the Research Methods module - a *Literature Review* and a *Research Presentation*, both on an area of active research. I have chosen to research 5G, the fifth generation of communications technology.
 
 ## Word Count
-|   	|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count&nbsp;&nbsp;         |
 | -----:|:----------------------:	|--------------:|
-|*I*|**Introduction**			| 273             |
-|*I.A*| A Brief History			| 194             |
-|*I.B*| 4G / Current				| 234             |
-|*II*|**Fifth Generation**		| 82              |
-|*II.A*| Definition of 5G			| 334             |
-|*III*|**Proposed Technologies**	| 54              |
-|*III.A*| Millimetre Waves			| 262             |
-|*III.B*| Small Cells           	| 335             |
+|*I*|**Introduction**			| 273&nbsp;&nbsp;&nbsp;             |
+|*I.A*| A Brief History			| 194&nbsp;&nbsp;&nbsp;             |
+|*I.B*| 4G / Current				| 234&nbsp;&nbsp;&nbsp;             |
+|*II*|**Fifth Generation**		| 82&nbsp;&nbsp;&nbsp;              |
+|*II.A*| Definition of 5G			| 334&nbsp;&nbsp;&nbsp;             |
+|*III*|**Proposed Technologies**	| 54&nbsp;&nbsp;&nbsp;              |
+|*III.A*| Millimetre Waves			| 262&nbsp;&nbsp;&nbsp;             |
+|*III.B*| Small Cells           	| 335&nbsp;&nbsp;&nbsp;             |
 |		 |                       	|                 |
-|		 | Total		            | 1768            |
+|		 | Total		            | 1768&nbsp;&nbsp;&nbsp;            |
 
 
 ## Predecessors 
