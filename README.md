@@ -15,9 +15,11 @@ This repository conatins work on two assessments for the Research Methods module
 |*II.A*| Definition of 5G			| 334&nbsp;&nbsp;&nbsp;             |
 |*III*|**Proposed Technologies**	| 54&nbsp;&nbsp;&nbsp;              |
 |*III.A*| Millimetre Waves			| 262&nbsp;&nbsp;&nbsp;             |
-|*III.B*| Small Cells           	| 335&nbsp;&nbsp;&nbsp;             |
-|		 |                       	|                 |
-|		 | Total		            | 1768&nbsp;&nbsp;&nbsp;            |
+|*III.B*| Small Cells           	| 356&nbsp;&nbsp;&nbsp;             |
+|*III.C*| Massive MIMO              | 231&nbsp;&nbsp;&nbsp;             |
+|*III.D*| Beamforming / Spatial Multiplexing        | 282&nbsp;&nbsp;&nbsp;             |
+|*IV*| **The Future of 5G**              | 48&nbsp;&nbsp;&nbsp;             |
+|		 | Total		            | 2350&nbsp;&nbsp;&nbsp;            |
 
 
 ## Predecessors 
