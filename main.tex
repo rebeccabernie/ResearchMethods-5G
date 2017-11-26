@@ -61,7 +61,7 @@ Through the use of millimetre waves (\textit{mmWaves}), broadcast between 30 and
 
 These suggested bands would not only improve network capacity, but would also allow for transfer of data at astonishing rates compared to those of today - up to 10Gpbs (\textit{gigabits-per-second}, equivalent to 1.25 gigabytes), with latencies of less than 1 millisecond \cite{mmwave}. Millimetre waves are an attractive technology not only from the perspective of transfer speed, but also data integrity. Compact waves travel faster than longer, less compact waves (such as radio waves), and due to their small size are also less likely to be disrupted during transmission. 
 
-\subsection{Small Cells}
+\subsection{Small Cells}\label{subsec:smallcells}
 
 While millimetre waves sound promising with respect to both capacity and speed, they are regrettably not ideal over long distances and can be easily absorbed by atmospheric conditions such as rain or cloud. Signal can also be lost by way of blockage by natural and man-made objects such as trees and buildings, meaning they have previously been dismissed with regard to mobile communications. The solution to this problem lies in increasing the density or closeness of our networks. 
 
@@ -69,26 +69,34 @@ By incorporating stations known as small cells - much smaller and more portable 
 
 While these results are promising for millimetre waves and small cells, indoor applications for 5G networks must also be accounted for. It is arguable that in reality the largest use of these new technologies won't happen outdoors, rather in indoor environments such as offices and schools, where signals will have to travel through walls. 
 
-Researchers at New York University's Polytechnic School of Engineering conducted tests on millimetre wave and small cell technologies in a typical modern office setting \cite{28_73ghz}, measuring 65.5 by 35 metres and complete with typical office features such as cubicles, desks and chairs, shelves, cabinets, concrete walls, glass doors, elevator doors. Initial tests carried out over distances ranging from 3.9 to 45.9 metres showed path loss exponents (PLE; \textit{a reduction in strength}) in line-of-sight circumstances to be 2.6 and 2.1 decibels for 28 and 73GHz bands, respectively. In non-line-of-sight situations, PLEs increased to 11.6 and 15.6 decibels for 28 and 73GHz bands, respectively. Deng \textit{et al} improved on these results through the implementation of beamforming, to be discussed in greater detail in section \textit{\ref{subsec:beamf}}.
+Researchers at New York University (NYU) Polytechnic School of Engineering conducted tests on millimetre wave and small cell technologies in a typical modern office setting \cite{28_73ghz}, measuring 65.5 by 35 metres and complete with typical office features such as cubicles, desks and chairs, shelves, cabinets, concrete walls, glass doors, elevator doors. Initial tests carried out over distances ranging from 3.9 to 45.9 metres showed path loss exponents (PLE; \textit{a reduction in strength}) in line-of-sight circumstances to be 2.6 and 2.1 decibels for 28 and 73GHz bands, respectively. In non-line-of-sight situations, PLEs increased to 11.6 and 15.6 decibels for 28 and 73GHz bands, respectively. Deng \textit{et al} improved on these results through the implementation of beamforming, to be discussed in greater detail in section \textit{\ref{subsec:beamspac}}.
 
 \subsection{Massive MIMO: Multiple Input Multiple Output}
 The concept of MIMO or \textit{multiple input, multiple output} has existed for many years, and is now a routine component in 4G LTE base stations. These antennae, usually no more than 10 per station \cite{mimo}, handle all incoming and outgoing data. The relatively small number of antennae featured in our current networks is a large contributing factor to current bandwidth issues, considering the antennae have to deal with an increased number of users at peak times.
 
 Massive MIMO is simply traditional MIMO but on a much larger scale, specifically a larger number of antennae than number of active users at any particular time \cite{whatwill5gbe}. As 5G stations would be handling millimetre waves instead of larger radio waves, a Massive MIMO system would have a much smaller form factor (the ratio of quadratic average to the average of all points on the waveform). This smaller form factor means antennae could be made physically smaller, allowing for more antennae on a station and thus indicating the possibility for exponential increases in available bandwidth \cite{mimo}.
 
-As Andrews \textit{et al} explains in \cite{whatwill5gbe}, the idea that number of antennae per station would be larger than the number of active users implies antenna numbers in the hundreds in each station. This suggestion brings a new implication with regards to signal interference from multiple antennae. One possible solution to this complication is the implementation of beamforming and signal processing algorithms.
+As Andrews \textit{et al} explains in \cite{whatwill5gbe}, the idea that number of antennae per station would be larger than the number of active users implies antenna numbers in the hundreds in each station. This suggestion brings a new implication with regards to signal interference from multiple antennae. One possible solution to this complication is the implementation of beamforming and spatial multiplexing.
 
-\subsection{Beamforming}\label{subsec:beamf}
-\subsection{Full Duplex}
+\subsection{Beamforming and Spatial Multiplexing}\label{subsec:beamspac}
+Our current stations operate on the method of sending signals in multiple directions, rather than on a direct path to the target destination. The incorporation of beamforming and/or spatial multiplexing would not only reduce the likelihood of interference, but would also be much more efficient than current omnidirectional signals.
+
+Spatial multiplexing involves splitting outgoing data into separate packets to be transferred simultaneously, over the same frequency, with the target antenna reassembling the packets upon receipt \cite{beam_sm}. Spatial multiplexing also allows for these packets of data to use walls and other obstacles almost like reflectors to bounce off. This technique would lead to a more efficient data transfer system, one better capable of handling increasing amounts of traffic on the network.
+
+To further improve data transfer methods, the implementation of beamforming would allow antennae to focus data in a directed way, almost like a beam. As Sun \textit{et al} outlines in \cite{beam_sm}, beamforming coupled with spatial multiplexing is highly appealing considering antennae could be steered in any direction and could bounce data off buildings, leading to very little loss of signal and reduced interference.
+
+As discussed in section \textit{\ref{subsec:smallcells}}, researchers at NYU used beamforming to improve tests on indoor use of millimetre waves and small cells. 
+
+\section{The Future of 5G}
+
 \subsection{Problems Facing 5G}
-Might make this into section of its own, or tie with use cases as subsections of "Future of 5G" or similar.
 Cost, infrastructure etc. Companies / investment. Rural / cities. Health hazards. Refer to presentation notes.
-
-\section{Use Cases for 5G}
-\subsection{In Personal Life}
+\subsection{Possible Use Cases}
+\subsubsection{In Personal Life}
 Gaming, streaming, IoT / smart homes, always connected.
-\subsection{The Bigger Picture}
+\subsubsection{The Bigger Picture}
 Education, business / agriculture / monitoring, transport (autonomous), medical.
+
 
 \section{Conclusion}
 
