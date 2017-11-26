@@ -69,11 +69,13 @@ By incorporating stations known as small cells - much smaller and more portable 
 
 While these results are promising for millimetre waves and small cells, indoor applications for 5G networks must also be accounted for. It is arguable that in reality the largest use of these new technologies won't happen outdoors, rather in indoor environments such as offices and schools, where signals will have to travel through walls. 
 
-Researchers at New York University's Polytechnic School of Engineering conducted tests in a typical modern office setting \cite{28_73ghz}, measuring 65.5 by 35 metres and complete with typical office features such as cubicles, desks and chairs, shelves, cabinets, concrete walls, glass doors, elevator doors. Inital tests carried out over distances ranging from 3.9 to 45.9 metres showed path loss exponents (PLE; \textit{a reduction in strength}) in line-of-sight circumstances to be 2.6 and 2.1 decibels for 28 and 73GHz bands, respectively. In non-line-of-sight situations, PLEs increased to 11.6 and 15.6 decibels for 28 and 73GHz bands, respectively. 
-
+Researchers at New York University's Polytechnic School of Engineering conducted tests on millimetre wave and small cell technologies in a typical modern office setting \cite{28_73ghz}, measuring 65.5 by 35 metres and complete with typical office features such as cubicles, desks and chairs, shelves, cabinets, concrete walls, glass doors, elevator doors. Initial tests carried out over distances ranging from 3.9 to 45.9 metres showed path loss exponents (PLE; \textit{a reduction in strength}) in line-of-sight circumstances to be 2.6 and 2.1 decibels for 28 and 73GHz bands, respectively. In non-line-of-sight situations, PLEs increased to 11.6 and 15.6 decibels for 28 and 73GHz bands, respectively. Deng \textit{et al} improved on these results through the implementation of beamforming, to be discussed in greater detail in section \textit{\ref{subsec:beamf}}.
 
 \subsection{Massive MIMO: Multiple Input Multiple Output}
-\subsection{Beamforming}
+The concept of MIMO or \textit{multiple input, multiple output} has existed for many years, and is now a routine component in 4G LTE base stations. These antennae, usually no more than 10 per station \cite{mimo}, handle all incoming and outgoing data. The relatively small number of antennae featured in our current networks is a large contributing factor to current bandwidth issues, considering the antennae have to deal with an increased number of users at peak times.
+
+Massive MIMO is simply traditional MIMO but on a much larger scale, specifically a larger number of antennae than number of active users at any particular time \cite{whatwill5gbe}. 
+\subsection{Beamforming}\label{subsec:beamf}
 \subsection{Full Duplex}
 \subsection{Problems Facing 5G}
 Might make this into section of its own, or tie with use cases as subsections of "Future of 5G" or similar.
