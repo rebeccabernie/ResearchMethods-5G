@@ -6,7 +6,7 @@
 This repository conatins work on two assessments for the Research Methods module - a *Literature Review* and a *Research Presentation*, both on an area of active research. I have chosen to research 5G, the fifth generation of communications technology.
 
 ## Word Count
-|   	|Section&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Count&nbsp;         |
+|   	|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Count&nbsp;         |
 | -----:|:----------------------:	|--------------:|
 |*I*|**Introduction**			| 273             |
 |*I.A*| A Brief History			| 194             |
