@@ -1,11 +1,14 @@
 # 5G: The Next Step in Mobile Communications
-*This is a draft ReadMe, outlining basic ideas and topics. During the project I'll use it mainly to discuss progress/ideas and record notes/interesting articles etc, but it will be finalised and changed considerbly before December 1st 2017.*
+
 > Module: Research Methods in Computing & IT / 4th Year Software Development  
 > Lecturer: Dr Martin Kenirons
 
 This repository conatins work on two assessments for the Research Methods module - a *Literature Review* and a *Research Presentation*, both on an area of active research. I have chosen to research 5G, the fifth generation of communications technology.
 
-## Word Count
+[Presentation Slides](https://github.com/rebeccabernie/ResearchMethods-5G/blob/master/5G_Presentation.pdf)
+[Literature Review Paper](https://github.com/rebeccabernie/ResearchMethods-5G/blob/master/5G_TheNextStepInMobileCommunications_LiteratureReview.pdf)
+
+## Literature Review Word Count
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count&nbsp;&nbsp;         |
 | -----:|:----------------------:	|--------------:|
 |*I*|**Introduction**			    | 274&nbsp;&nbsp;&nbsp;             |
