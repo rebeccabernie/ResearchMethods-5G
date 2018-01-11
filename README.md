@@ -5,8 +5,8 @@
 
 This repository conatins work on two assessments for the Research Methods module - a *Literature Review* and a *Research Presentation*, both on an area of active research. I have chosen to research 5G, the fifth generation of communications technology.
 
-[Presentation Slides](https://github.com/rebeccabernie/ResearchMethods-5G/blob/master/5G_Presentation.pdf)
-[Literature Review Paper](https://github.com/rebeccabernie/ResearchMethods-5G/blob/master/5G_TheNextStepInMobileCommunications_LiteratureReview.pdf)
+[Presentation Slides](https://github.com/rebeccabernie/ResearchMethods-5G/blob/master/5G_Presentation.pdf).  
+[Literature Review Paper PDF](https://github.com/rebeccabernie/ResearchMethods-5G/blob/master/5G_TheNextStepInMobileCommunications_LiteratureReview.pdf). LaTex source files can be found in the *other* folder.  
 
 ## Literature Review Word Count
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Count&nbsp;&nbsp;         |
